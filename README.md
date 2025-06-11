@@ -19,5 +19,5 @@ The pretrained model weights used in this work are available at the following li
 
 
 ### We will soon upload all the detailed instructions for implementation. 
-### The dataset used in this work is [SemanticKITTI](https://semantic-kitti.org/) and [nuScenes](https://www.nuscenes.org/) for the real domain and [VoxelScape](https://voxel-scape.github.io/dataset/) for the simulated domain
+### The dataset used in this work are [SemanticKITTI](https://semantic-kitti.org/) and [nuScenes](https://www.nuscenes.org/) for the real domain and [VoxelScape](https://voxel-scape.github.io/dataset/) for the simulated domain
 
